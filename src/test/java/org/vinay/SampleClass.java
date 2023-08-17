@@ -6,6 +6,6 @@ package org.vinay;
 
 public class SampleClass {
     public static void main(String[] args) {
-        System.out.println("vinay");
+        System.out.println("vijay");
     }
 }
